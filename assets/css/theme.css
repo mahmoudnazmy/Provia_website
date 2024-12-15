@@ -18203,8 +18203,8 @@ label {
 
 /*# sourceMappingURL=theme.css.map */
 
-@media (min-width: 768px) {
-.job {
+@media (min-width: 785px) {
+  .job {
   width: 45%;
 }
 .jobs {
