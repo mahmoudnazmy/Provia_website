@@ -18203,14 +18203,14 @@ label {
 
 /*# sourceMappingURL=theme.css.map */
 
-
+@media (min-width: 768px) {
 .job {
   width: 45%;
 }
 .jobs {
   justify-content: space-between;
 }
-
+}
 .gob:hover {
   background: #fff !important;
 }
